@@ -149,28 +149,28 @@ pip install statsbombpy pandas matplotlib seaborn numpy
      10. **Abdessamad Ezzalzouli**: 249 actions
 
    #### 📈 **Performance Leaders**:
-   • **Top Passers**:
+   - **Top Passers**:
      - Nayef Aguerd: 269
      - Achraf Hakimi Mouh: 260
      - Azzedine Ounahi: 217
    
-   • **Top Shooters**:
+   - **Top Shooters**:
      - Youssef En-Nesyri: 8
      - Azzedine Ounahi: 7
      - Hakim Ziyech: 7
    
-   • **Top Dribblers**:
+   - **Top Dribblers**:
      - Azzedine Ounahi: 12
      - Sofiane Boufal: 10
      - Abdessamad Ezzalzouli: 9
    
-   • **Top Interceptors**:
+   - **Top Interceptors**:
      - Romain Saïss: 3
      - Mohamed Chibi: 3
      - Hakim Ziyech: 3
 
 ### 🏟️ FIELD ZONE ANALYSIS:
-   • **Activity by zone**:
+   - **Activity by zone**:
      - **Right Midfield**: 1,429 (21.5%)
      - **Left Midfield**: 996 (15.0%)
      - **Right Attack**: 819 (12.3%)
