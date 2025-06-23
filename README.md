@@ -75,65 +75,65 @@ pip install statsbombpy pandas matplotlib seaborn numpy
 ## 🔍 Key Findings Preview
 
 ### 🏆 GENERAL INFORMATION:
-   • Total events analyzed: **6,712**
-   • Number of teams: **1**
-   • Unique players: **22**
-   • Number of matches: **4**
+   - Total events analyzed: **6,712**
+   - Number of teams: **1**
+   - Unique players: **22**
+   - Number of matches: **4**
 
 ### ⚽ EVENT DISTRIBUTION:
-   • **Pass**: 1,945 (29.0%)
-   • **Ball Receipt**: 1,907 (28.4%)
-   • **Carry**: 1,541 (23.0%)
-   • **Pressure**: 496 (7.4%)
-   • **Ball Recovery**: 154 (2.3%)
-   • **Duel**: 99 (1.5%)
-   • **Foul Committed**: 61 (0.9%)
-   • **Shot**: 58 (0.9%)
-   • **Block**: 56 (0.8%)
-   • **Clearance**: 56 (0.8%)
+   - **Pass**: 1,945 (29.0%)
+   - **Ball Receipt**: 1,907 (28.4%)
+   - **Carry**: 1,541 (23.0%)
+   - **Pressure**: 496 (7.4%)
+   - **Ball Recovery**: 154 (2.3%)
+   - **Duel**: 99 (1.5%)
+   - **Foul Committed**: 61 (0.9%)
+   - **Shot**: 58 (0.9%)
+   - **Block**: 56 (0.8%)
+   - **Clearance**: 56 (0.8%)
 
 ### 🎯 PASSING ANALYSIS:
-   • **Total passes**: 1,945
-   • **Successful passes**: 1,659
-   • **Success rate**: **85.3%**
-   • **Average length**: 21.1m
-   • **Longest pass**: 83.8m
-   • **Distribution by height**:
+   - **Total passes**: 1,945
+   - **Successful passes**: 1,659
+   - **Success rate**: **85.3%**
+   - **Average length**: 21.1m
+   - **Longest pass**: 83.8m
+   - **Distribution by height**:
      - Ground Pass: 1,460
      - High Pass: 320
      - Low Pass: 165
 
 ### 🥅 SHOOTING ANALYSIS:
-   • **Total shots**: 58
-   • **Shot outcomes**:
+   - **Total shots**: 58
+   - **Shot outcomes**:
      - Off Target: 21 (36.2%)
      - Saved: 15 (25.9%)
      - Blocked: 13 (22.4%)
      - **Goal**: 5 (8.6%)
      - Wayward: 3 (5.2%)
      - Post: 1 (1.7%)
-   • **Total xG**: 7.87
-   • **Average xG per shot**: 0.136
-   • **Shots by body part**:
+   - **Total xG**: 7.87
+   - **Average xG per shot**: 0.136
+   - **Shots by body part**:
      - Left Foot: 28
      - Right Foot: 19
      - Head: 11
 
 ### 🛡️ DEFENSIVE ANALYSIS:
-   • **Interceptions**: 21
-   • **Clearances**: 56
-   • **Total duels**: 99
-   • **Duels won**: 13 (13.1%)
-   • **Fouls committed**: 61
+   - **Interceptions**: 21
+   - **Clearances**: 56
+   - **Total duels**: 99
+   - **Duels won**: 13 (13.1%)
+   - **Fouls committed**: 61
 
 ### ⚽ POSSESSION ANALYSIS:
-   • **Action distribution**:
+   - **Action distribution**:
      - **Morocco**: 5,825 actions (86.8%)
      - Zambia: 234 actions (3.5%)
      - South Africa: 222 actions (3.3%)
      - Congo DR: 222 actions (3.3%)
      - Tanzania: 209 actions (3.1%)
-   • **Average action duration**: 1.3s
+   - **Average action duration**: 1.3s
 
 ### ⭐ KEY PLAYERS:
    #### 🏃‍♂️ **Most Active Players**:
