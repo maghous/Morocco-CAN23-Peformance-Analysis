@@ -74,24 +74,13 @@ pip install statsbombpy pandas matplotlib seaborn numpy
 
 ## 🔍 Key Findings Preview
 
-*"Our analysis reveals Morocco's tactical discipline and strategic adaptability throughout the tournament, with particular strengths in..."*
-
-> 📊 **Sample Insights**:
-> - Average possession: XX%
-> - Pass completion rate: XX%
-> - Most active player zones
-> - Critical match moments identified
->
-# 📊 ANALYSIS REPORT - MOROCCO NATIONAL TEAM
-============================================================
-
-## 🏆 GENERAL INFORMATION:
+### 🏆 GENERAL INFORMATION:
    • Total events analyzed: **6,712**
    • Number of teams: **1**
    • Unique players: **22**
    • Number of matches: **4**
 
-## ⚽ EVENT DISTRIBUTION:
+### ⚽ EVENT DISTRIBUTION:
    • **Pass**: 1,945 (29.0%)
    • **Ball Receipt**: 1,907 (28.4%)
    • **Carry**: 1,541 (23.0%)
@@ -103,7 +92,7 @@ pip install statsbombpy pandas matplotlib seaborn numpy
    • **Block**: 56 (0.8%)
    • **Clearance**: 56 (0.8%)
 
-## 🎯 PASSING ANALYSIS:
+### 🎯 PASSING ANALYSIS:
    • **Total passes**: 1,945
    • **Successful passes**: 1,659
    • **Success rate**: **85.3%**
@@ -114,7 +103,7 @@ pip install statsbombpy pandas matplotlib seaborn numpy
      - High Pass: 320
      - Low Pass: 165
 
-## 🥅 SHOOTING ANALYSIS:
+### 🥅 SHOOTING ANALYSIS:
    • **Total shots**: 58
    • **Shot outcomes**:
      - Off Target: 21 (36.2%)
@@ -130,14 +119,14 @@ pip install statsbombpy pandas matplotlib seaborn numpy
      - Right Foot: 19
      - Head: 11
 
-## 🛡️ DEFENSIVE ANALYSIS:
+### 🛡️ DEFENSIVE ANALYSIS:
    • **Interceptions**: 21
    • **Clearances**: 56
    • **Total duels**: 99
    • **Duels won**: 13 (13.1%)
    • **Fouls committed**: 61
 
-## ⚽ POSSESSION ANALYSIS:
+### ⚽ POSSESSION ANALYSIS:
    • **Action distribution**:
      - **Morocco**: 5,825 actions (86.8%)
      - Zambia: 234 actions (3.5%)
@@ -146,8 +135,8 @@ pip install statsbombpy pandas matplotlib seaborn numpy
      - Tanzania: 209 actions (3.1%)
    • **Average action duration**: 1.3s
 
-## ⭐ KEY PLAYERS:
-   ### 🏃‍♂️ **Most Active Players**:
+### ⭐ KEY PLAYERS:
+   #### 🏃‍♂️ **Most Active Players**:
       1. **Achraf Hakimi Mouh**: 812 actions
       2. **Azzedine Ounahi**: 791 actions
       3. **Nayef Aguerd**: 771 actions
@@ -159,7 +148,7 @@ pip install statsbombpy pandas matplotlib seaborn numpy
       9. **Amine Adli**: 253 actions
      10. **Abdessamad Ezzalzouli**: 249 actions
 
-   ### 📈 **Performance Leaders**:
+   #### 📈 **Performance Leaders**:
    • **Top Passers**:
      - Nayef Aguerd: 269
      - Achraf Hakimi Mouh: 260
@@ -180,7 +169,7 @@ pip install statsbombpy pandas matplotlib seaborn numpy
      - Mohamed Chibi: 3
      - Hakim Ziyech: 3
 
-## 🏟️ FIELD ZONE ANALYSIS:
+### 🏟️ FIELD ZONE ANALYSIS:
    • **Activity by zone**:
      - **Right Midfield**: 1,429 (21.5%)
      - **Left Midfield**: 996 (15.0%)
@@ -191,27 +180,6 @@ pip install statsbombpy pandas matplotlib seaborn numpy
      - **Right Defense**: 574 (8.6%)
      - **Left Defense**: 491 (7.4%)
      - **Center Attack**: 395 (5.9%)
-
-============================================================
-## 🎯 TACTICAL RECOMMENDATIONS
-============================================================
-
-### 🔹 **DEFENSE**: 
-Unfavorable fouls/interceptions ratio. **Improve timing of defensive interventions**.
-
-### 📋 **KEY AREAS FOR ATTENTION**:
-• **Analyze defensive-to-offensive transition situations**
-• **Evaluate set-piece effectiveness**
-• **Monitor physical condition in late-game scenarios**
-• **Optimize tactical changes during matches**
-
-============================================================
-## ✅ ANALYSIS REPORT COMPLETED
-============================================================
-📁 **Data successfully analyzed for Morocco National Team**  
-🔄 **Ready for new data analysis or deeper insights**
-
----
 
 ### 📊 **Summary Statistics Object**:
 ```python
@@ -282,29 +250,13 @@ This project uses **StatsBomb's open data**, which provides:
 
 *StatsBomb provides free access to certain competitions for research and educational purposes.*
 
-## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
-
-1. **🍴 Fork** the repository
-2. **🌿 Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **💾 Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **📤 Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **🔄 Open** a Pull Request
-
-### 💡 Contribution Ideas
+## 💡 Contribution Ideas
 - Additional visualization types
 - Statistical model improvements
 - Comparative analysis with other teams
 - Performance prediction models
 
-## 📖 Documentation
-
-Detailed documentation is available in the `/docs` folder:
-- **API Reference**: Function and class documentation
-- **Tutorial Notebooks**: Step-by-step analysis guides
-- **Data Dictionary**: Explanation of all metrics used
-- **Visualization Guide**: How to interpret charts and graphs
 
 ## 🎓 Educational Value
 
@@ -316,10 +268,8 @@ This project is perfect for:
 
 ## 🌍 Connect & Follow
 
-- **📧 Email**: your.email@example.com
-- **💼 LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **🐦 Twitter**: [@YourTwitter](https://twitter.com/yourhandle)
-- **📊 Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
+- **💼 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/abdellah-maghous-036a0a159/)
+- **🐦 Twitter**: [@YourTwitter](https://x.com/data212maroc)
 
 ## 📜 License
 
@@ -340,4 +290,3 @@ If you find this analysis valuable, please consider giving it a star! It helps o
 
 *"Football is not just about what happens on the pitch - it's about understanding the beautiful patterns hidden in the data."*
 
-**🔗 Links**: [Live Demo](https://your-demo-link.com) | [Documentation](https://your-docs-link.com) | [Report Issues](https://github.com/yourusername/morocco-can-analysis/issues)
